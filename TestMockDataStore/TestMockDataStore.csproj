@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
-    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.1.4" />
-    <PackageReference Include="Swashbuckle.AspnetCore.SwaggerGen" Version="6.1.4" />
-    <PackageReference Include="Swashbuckle.AspnetCore.SwaggerUI" Version="6.1.4" />
     <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
   </ItemGroup>
 
